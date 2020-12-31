@@ -1,0 +1,23 @@
+{
+  "name": "power-bi-news",
+  "version": "1.0.0",
+  "description": "Power BI News",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "oooooooo",
+  "license": "MIT",
+  "repository": "",
+  "dependencies": {
+    "rss": "^1.2.2",
+    "rss-parser": "^3.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
